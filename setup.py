@@ -10,7 +10,7 @@ def main():
         version              = '2018.02.24.1606',
         description          = 'acquire and display GPU details',
         long_description     = long_description(),
-        url                  = 'https://github.com/wdbm/spin',
+        url                  = 'https://github.com/wdbm/gpudeets',
         author               = 'Will Breaden Madden',
         author_email         = 'wbm@protonmail.ch',
         license              = 'GPLv3',
